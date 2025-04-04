@@ -1,0 +1,346 @@
+Délégation,Centre,typeAnimalobs,valeur
+District Brest,CEI Brest,RAPACE NOCTURNE,1
+District Brest,CEI Brest,Lièvre,3
+District Brest,CEI Brest,Écureuil,4
+District Brest,CEI Brest,cerf/biche,5
+District Brest,CEI Brest,Lapin,6
+District Brest,CEI Brest,RAPACE DIURNE,7
+District Brest,CEI Brest,chat,8
+District Brest,CEI Brest,Hérisson,10
+District Brest,CEI Brest,chevreuil,11
+District Brest,CEI Brest,Sanglier,12
+District Brest,CEI Brest,Ragondin,15
+District Brest,CEI Brest,Blaireau,19
+District Brest,CEI Brest,Mustélidés / rongeur,21
+District Brest,CEI Brest,Renard,26
+District Brest,CEI Brest,Oiseaux sauf Rapace,37
+District Brest,CEI Châteaulin,Lapin,1
+District Brest,CEI Châteaulin,cerf/biche,1
+District Brest,CEI Châteaulin,Écureuil,1
+District Brest,CEI Châteaulin,chien,2
+District Brest,CEI Châteaulin,RAPACE DIURNE,4
+District Brest,CEI Châteaulin,chat,5
+District Brest,CEI Châteaulin,Lièvre,7
+District Brest,CEI Châteaulin,Hérisson,10
+District Brest,CEI Châteaulin,Ragondin,11
+District Brest,CEI Châteaulin,Sanglier,20
+District Brest,CEI Châteaulin,RAPACE NOCTURNE,21
+District Brest,CEI Châteaulin,chevreuil,31
+District Brest,CEI Châteaulin,Mustélidés / rongeur,36
+District Brest,CEI Châteaulin,Renard,39
+District Brest,CEI Châteaulin,Blaireau,40
+District Brest,CEI Châteaulin,Oiseaux sauf Rapace,81
+District Brest,CEI Châteauneuf-du-Faou,cerf/biche,1
+District Brest,CEI Châteauneuf-du-Faou,Écureuil,1
+District Brest,CEI Châteauneuf-du-Faou,Hérisson,2
+District Brest,CEI Châteauneuf-du-Faou,Lièvre,2
+District Brest,CEI Châteauneuf-du-Faou,chat,2
+District Brest,CEI Châteauneuf-du-Faou,Lapin,3
+District Brest,CEI Châteauneuf-du-Faou,Ragondin,3
+District Brest,CEI Châteauneuf-du-Faou,Sanglier,3
+District Brest,CEI Châteauneuf-du-Faou,RAPACE NOCTURNE,5
+District Brest,CEI Châteauneuf-du-Faou,Mustélidés / rongeur,6
+District Brest,CEI Châteauneuf-du-Faou,RAPACE DIURNE,6
+District Brest,CEI Châteauneuf-du-Faou,chevreuil,15
+District Brest,CEI Châteauneuf-du-Faou,Blaireau,18
+District Brest,CEI Châteauneuf-du-Faou,Oiseaux sauf Rapace,28
+District Brest,CEI Châteauneuf-du-Faou,Renard,33
+District Brest,CEI Melgven,Lièvre,1
+District Brest,CEI Melgven,chat,1
+District Brest,CEI Melgven,chien,2
+District Brest,CEI Melgven,RAPACE DIURNE,4
+District Brest,CEI Melgven,chevreuil,4
+District Brest,CEI Melgven,Mustélidés / rongeur,5
+District Brest,CEI Melgven,RAPACE NOCTURNE,7
+District Brest,CEI Melgven,Ragondin,8
+District Brest,CEI Melgven,Blaireau,11
+District Brest,CEI Melgven,Sanglier,12
+District Brest,CEI Melgven,Renard,14
+District Brest,CEI Melgven,Oiseaux sauf Rapace,20
+District Brest,CEI Saint-Thégonnec,Chèvre,1
+District Brest,CEI Saint-Thégonnec,Reptiles,1
+District Brest,CEI Saint-Thégonnec,Amphibiens,2
+District Brest,CEI Saint-Thégonnec,Écureuil,2
+District Brest,CEI Saint-Thégonnec,Hérisson,5
+District Brest,CEI Saint-Thégonnec,chien,5
+District Brest,CEI Saint-Thégonnec,RAPACE DIURNE,6
+District Brest,CEI Saint-Thégonnec,cerf/biche,7
+District Brest,CEI Saint-Thégonnec,Lapin,11
+District Brest,CEI Saint-Thégonnec,chat,11
+District Brest,CEI Saint-Thégonnec,RAPACE NOCTURNE,12
+District Brest,CEI Saint-Thégonnec,Sanglier,12
+District Brest,CEI Saint-Thégonnec,Lièvre,14
+District Brest,CEI Saint-Thégonnec,chevreuil,14
+District Brest,CEI Saint-Thégonnec,Mustélidés / rongeur,17
+District Brest,CEI Saint-Thégonnec,Ragondin,28
+District Brest,CEI Saint-Thégonnec,Oiseaux sauf Rapace,30
+District Brest,CEI Saint-Thégonnec,Renard,31
+District Brest,CEI Saint-Thégonnec,Blaireau,41
+District Nantes,CEI Goulaine,Ragondin,3
+District Nantes,CEI Goulaine,cerf/biche,3
+District Nantes,CEI Goulaine,chat,3
+District Nantes,CEI Goulaine,chevreuil,3
+District Nantes,CEI Goulaine,Renard,5
+District Nantes,CEI Goulaine,Blaireau,6
+District Nantes,CEI Goulaine,Sanglier,12
+District Nantes,CEI Héric,Hérisson,1
+District Nantes,CEI Héric,chat,1
+District Nantes,CEI Héric,Lapin,2
+District Nantes,CEI Héric,Mustélidés / rongeur,2
+District Nantes,CEI Héric,RAPACE NOCTURNE,2
+District Nantes,CEI Héric,Ragondin,2
+District Nantes,CEI Héric,chien,2
+District Nantes,CEI Héric,RAPACE DIURNE,3
+District Nantes,CEI Héric,cerf/biche,4
+District Nantes,CEI Héric,Oiseaux sauf Rapace,5
+District Nantes,CEI Héric,Renard,12
+District Nantes,CEI Héric,Sanglier,20
+District Nantes,CEI Héric,chevreuil,20
+District Nantes,CEI Héric,Blaireau,27
+District Nantes,CEI La Séguinière,Sanglier,1
+District Nantes,CEI La Séguinière,Écureuil,1
+District Nantes,CEI La Séguinière,Hérisson,3
+District Nantes,CEI La Séguinière,Mustélidés / rongeur,3
+District Nantes,CEI La Séguinière,Lièvre,4
+District Nantes,CEI La Séguinière,Ragondin,6
+District Nantes,CEI La Séguinière,chat,6
+District Nantes,CEI La Séguinière,RAPACE DIURNE,11
+District Nantes,CEI La Séguinière,Oiseaux sauf Rapace,12
+District Nantes,CEI La Séguinière,chevreuil,12
+District Nantes,CEI La Séguinière,RAPACE NOCTURNE,14
+District Nantes,CEI La Séguinière,Blaireau,15
+District Nantes,CEI La Séguinière,Renard,24
+District Nantes,CEI Nantes,Lièvre,1
+District Nantes,CEI Nantes,Oiseaux sauf Rapace,1
+District Nantes,CEI Nantes,chien,1
+District Nantes,CEI Nantes,Lapin,2
+District Nantes,CEI Nantes,Mustélidés / rongeur,2
+District Nantes,CEI Nantes,Hérisson,3
+District Nantes,CEI Nantes,chat,6
+District Nantes,CEI Nantes,Ragondin,9
+District Nantes,CEI Nantes,chevreuil,12
+District Nantes,CEI Nantes,Blaireau,13
+District Nantes,CEI Nantes,Renard,16
+District Nantes,CEI Nantes,Sanglier,22
+District Nantes,CEI Savenay,Loutre,1
+District Nantes,CEI Savenay,chien,1
+District Nantes,CEI Savenay,Chèvre,2
+District Nantes,CEI Savenay,Lapin,2
+District Nantes,CEI Savenay,RAPACE NOCTURNE,2
+District Nantes,CEI Savenay,cerf/biche,2
+District Nantes,CEI Savenay,Hérisson,3
+District Nantes,CEI Savenay,Mustélidés / rongeur,6
+District Nantes,CEI Savenay,Oiseaux sauf Rapace,6
+District Nantes,CEI Savenay,chevreuil,7
+District Nantes,CEI Savenay,chat,10
+District Nantes,CEI Savenay,Blaireau,12
+District Nantes,CEI Savenay,Sanglier,13
+District Nantes,CEI Savenay,Renard,17
+District Nantes,CEI Savenay,Ragondin,24
+District Rennes,CEI Bain de Bretagne,cerf/biche,1
+District Rennes,CEI Bain de Bretagne,Écureuil,1
+District Rennes,CEI Bain de Bretagne,Lapin,2
+District Rennes,CEI Bain de Bretagne,Lièvre,3
+District Rennes,CEI Bain de Bretagne,chien,4
+District Rennes,CEI Bain de Bretagne,RAPACE DIURNE,7
+District Rennes,CEI Bain de Bretagne,chat,7
+District Rennes,CEI Bain de Bretagne,Oiseaux sauf Rapace,9
+District Rennes,CEI Bain de Bretagne,RAPACE NOCTURNE,10
+District Rennes,CEI Bain de Bretagne,Sanglier,11
+District Rennes,CEI Bain de Bretagne,Mustélidés / rongeur,15
+District Rennes,CEI Bain de Bretagne,Ragondin,23
+District Rennes,CEI Bain de Bretagne,Blaireau,25
+District Rennes,CEI Bain de Bretagne,chevreuil,26
+District Rennes,CEI Bain de Bretagne,Renard,31
+District Rennes,CEI Chateaubourg,Loutre,1
+District Rennes,CEI Chateaubourg,chien,1
+District Rennes,CEI Chateaubourg,Lièvre,2
+District Rennes,CEI Chateaubourg,RAPACE DIURNE,2
+District Rennes,CEI Chateaubourg,Hérisson,3
+District Rennes,CEI Chateaubourg,Sanglier,5
+District Rennes,CEI Chateaubourg,chat,5
+District Rennes,CEI Chateaubourg,Ragondin,7
+District Rennes,CEI Chateaubourg,Lapin,10
+District Rennes,CEI Chateaubourg,RAPACE NOCTURNE,12
+District Rennes,CEI Chateaubourg,Blaireau,13
+District Rennes,CEI Chateaubourg,Mustélidés / rongeur,15
+District Rennes,CEI Chateaubourg,chevreuil,22
+District Rennes,CEI Chateaubourg,Renard,24
+District Rennes,CEI Chateaubourg,Oiseaux sauf Rapace,71
+District Rennes,CEI Mayenne,cerf/biche,1
+District Rennes,CEI Mayenne,Ragondin,4
+District Rennes,CEI Mayenne,Hérisson,5
+District Rennes,CEI Mayenne,Lapin,5
+District Rennes,CEI Mayenne,RAPACE DIURNE,6
+District Rennes,CEI Mayenne,RAPACE NOCTURNE,6
+District Rennes,CEI Mayenne,Oiseaux sauf Rapace,10
+District Rennes,CEI Mayenne,chevreuil,11
+District Rennes,CEI Mayenne,Mustélidés / rongeur,12
+District Rennes,CEI Mayenne,Sanglier,21
+District Rennes,CEI Mayenne,chat,23
+District Rennes,CEI Mayenne,Blaireau,32
+District Rennes,CEI Mayenne,Renard,39
+District Rennes,CEI Pleumeleuc,Écureuil,2
+District Rennes,CEI Pleumeleuc,Hérisson,3
+District Rennes,CEI Pleumeleuc,Lapin,5
+District Rennes,CEI Pleumeleuc,RAPACE DIURNE,7
+District Rennes,CEI Pleumeleuc,Ragondin,9
+District Rennes,CEI Pleumeleuc,chien,10
+District Rennes,CEI Pleumeleuc,Lièvre,18
+District Rennes,CEI Pleumeleuc,chat,18
+District Rennes,CEI Pleumeleuc,RAPACE NOCTURNE,23
+District Rennes,CEI Pleumeleuc,Mustélidés / rongeur,26
+District Rennes,CEI Pleumeleuc,Renard,28
+District Rennes,CEI Pleumeleuc,Sanglier,30
+District Rennes,CEI Pleumeleuc,Oiseaux sauf Rapace,31
+District Rennes,CEI Pleumeleuc,chevreuil,37
+District Rennes,CEI Pleumeleuc,Blaireau,53
+District Rennes,CEI Rennes,Loutre,1
+District Rennes,CEI Rennes,chien,1
+District Rennes,CEI Rennes,Lièvre,2
+District Rennes,CEI Rennes,RAPACE NOCTURNE,2
+District Rennes,CEI Rennes,Mustélidés / rongeur,3
+District Rennes,CEI Rennes,Oiseaux sauf Rapace,3
+District Rennes,CEI Rennes,Renard,4
+District Rennes,CEI Rennes,chat,4
+District Rennes,CEI Rennes,Ragondin,5
+District Rennes,CEI Rennes,Blaireau,6
+District Rennes,CEI Rennes,chevreuil,11
+District Rennes,CEI Rennes,Sanglier,16
+District Rennes,CEI Saint Aubin du Cormier,Blaireau,1
+District Rennes,CEI Saint Aubin du Cormier,Mustélidés / rongeur,1
+District Rennes,CEI Saint Aubin du Cormier,Oiseaux sauf Rapace,1
+District Rennes,CEI Saint Aubin du Cormier,RAPACE NOCTURNE,1
+District Rennes,CEI Saint Aubin du Cormier,Ragondin,1
+District Rennes,CEI Saint Aubin du Cormier,chevreuil,1
+District Rennes,CEI Saint Aubin du Cormier,Sanglier,5
+District Rennes,CEI Saint Aubin du Cormier,Renard,7
+District Saint-Brieuc,CEI Guingamp,Hérisson,1
+District Saint-Brieuc,CEI Guingamp,Lapin,1
+District Saint-Brieuc,CEI Guingamp,RAPACE DIURNE,1
+District Saint-Brieuc,CEI Guingamp,Oiseaux sauf Rapace,2
+District Saint-Brieuc,CEI Guingamp,Lièvre,3
+District Saint-Brieuc,CEI Guingamp,Ragondin,3
+District Saint-Brieuc,CEI Guingamp,Mustélidés / rongeur,4
+District Saint-Brieuc,CEI Guingamp,chat,4
+District Saint-Brieuc,CEI Guingamp,cerf/biche,5
+District Saint-Brieuc,CEI Guingamp,chien,7
+District Saint-Brieuc,CEI Guingamp,Sanglier,18
+District Saint-Brieuc,CEI Guingamp,Renard,22
+District Saint-Brieuc,CEI Guingamp,chevreuil,34
+District Saint-Brieuc,CEI Guingamp,Blaireau,35
+District Saint-Brieuc,CEI Le Perray,Mustélidés / rongeur,1
+District Saint-Brieuc,CEI Le Perray,chat,1
+District Saint-Brieuc,CEI Le Perray,Écureuil,1
+District Saint-Brieuc,CEI Le Perray,Lapin,2
+District Saint-Brieuc,CEI Le Perray,cerf/biche,2
+District Saint-Brieuc,CEI Le Perray,Hérisson,3
+District Saint-Brieuc,CEI Le Perray,Lièvre,3
+District Saint-Brieuc,CEI Le Perray,Oiseaux sauf Rapace,3
+District Saint-Brieuc,CEI Le Perray,chien,3
+District Saint-Brieuc,CEI Le Perray,Ragondin,5
+District Saint-Brieuc,CEI Le Perray,Renard,8
+District Saint-Brieuc,CEI Le Perray,Sanglier,10
+District Saint-Brieuc,CEI Le Perray,chevreuil,10
+District Saint-Brieuc,CEI Le Perray,Blaireau,18
+District Saint-Brieuc,CEI Loudéac,Hérisson,1
+District Saint-Brieuc,CEI Loudéac,Lapin,1
+District Saint-Brieuc,CEI Loudéac,Lièvre,1
+District Saint-Brieuc,CEI Loudéac,Loutre,1
+District Saint-Brieuc,CEI Loudéac,Mustélidés / rongeur,1
+District Saint-Brieuc,CEI Loudéac,Oiseaux sauf Rapace,1
+District Saint-Brieuc,CEI Loudéac,Ragondin,1
+District Saint-Brieuc,CEI Loudéac,chevreuil,1
+District Saint-Brieuc,CEI Loudéac,chien,1
+District Saint-Brieuc,CEI Loudéac,Sanglier,5
+District Saint-Brieuc,CEI Loudéac,Renard,7
+District Saint-Brieuc,CEI Pleslin-Trigavou,Loutre,1
+District Saint-Brieuc,CEI Pleslin-Trigavou,RAPACE DIURNE,1
+District Saint-Brieuc,CEI Pleslin-Trigavou,Renard,1
+District Saint-Brieuc,CEI Pleslin-Trigavou,cerf/biche,1
+District Saint-Brieuc,CEI Pleslin-Trigavou,chat,2
+District Saint-Brieuc,CEI Pleslin-Trigavou,Blaireau,3
+District Saint-Brieuc,CEI Pleslin-Trigavou,Ragondin,3
+District Saint-Brieuc,CEI Pleslin-Trigavou,Sanglier,4
+District Saint-Brieuc,CEI Pleslin-Trigavou,RAPACE NOCTURNE,5
+District Saint-Brieuc,CEI Pleslin-Trigavou,Oiseaux sauf Rapace,6
+District Saint-Brieuc,CEI Rostrenen,chat,2
+District Saint-Brieuc,CEI Rostrenen,RAPACE DIURNE,3
+District Saint-Brieuc,CEI Rostrenen,Ragondin,3
+District Saint-Brieuc,CEI Rostrenen,Sanglier,3
+District Saint-Brieuc,CEI Rostrenen,Lapin,4
+District Saint-Brieuc,CEI Rostrenen,Lièvre,4
+District Saint-Brieuc,CEI Rostrenen,chevreuil,4
+District Saint-Brieuc,CEI Rostrenen,Hérisson,9
+District Saint-Brieuc,CEI Rostrenen,RAPACE NOCTURNE,11
+District Saint-Brieuc,CEI Rostrenen,Blaireau,16
+District Saint-Brieuc,CEI Rostrenen,Oiseaux sauf Rapace,17
+District Saint-Brieuc,CEI Rostrenen,Renard,19
+District Saint-Brieuc,CEI Rostrenen,Mustélidés / rongeur,24
+District Saint-Brieuc,CEI Tramain,RAPACE NOCTURNE,1
+District Saint-Brieuc,CEI Tramain,Mustélidés / rongeur,2
+District Saint-Brieuc,CEI Tramain,Sanglier,2
+District Saint-Brieuc,CEI Tramain,chevreuil,2
+District Saint-Brieuc,CEI Tramain,chien,2
+District Vannes,CEI Locminé,Amphibiens,1
+District Vannes,CEI Locminé,Loutre,1
+District Vannes,CEI Locminé,RAPACE DIURNE,2
+District Vannes,CEI Locminé,chien,3
+District Vannes,CEI Locminé,Sanglier,4
+District Vannes,CEI Locminé,Écureuil,5
+District Vannes,CEI Locminé,Hérisson,10
+District Vannes,CEI Locminé,chat,11
+District Vannes,CEI Locminé,Mustélidés / rongeur,13
+District Vannes,CEI Locminé,chevreuil,13
+District Vannes,CEI Locminé,cerf/biche,14
+District Vannes,CEI Locminé,Renard,15
+District Vannes,CEI Locminé,Lièvre,16
+District Vannes,CEI Locminé,RAPACE NOCTURNE,18
+District Vannes,CEI Locminé,Lapin,23
+District Vannes,CEI Locminé,Ragondin,27
+District Vannes,CEI Locminé,Oiseaux sauf Rapace,39
+District Vannes,CEI Locminé,Blaireau,48
+District Vannes,CEI Lorient,Lapin,1
+District Vannes,CEI Lorient,Mustélidés / rongeur,1
+District Vannes,CEI Lorient,Ragondin,1
+District Vannes,CEI Lorient,Écureuil,1
+District Vannes,CEI Lorient,Sanglier,3
+District Vannes,CEI Lorient,Renard,7
+District Vannes,CEI Ploërmel,Castor,1
+District Vannes,CEI Ploërmel,Loutre,1
+District Vannes,CEI Ploërmel,Reptiles,1
+District Vannes,CEI Ploërmel,cerf/biche,2
+District Vannes,CEI Ploërmel,Lièvre,6
+District Vannes,CEI Ploërmel,Ragondin,7
+District Vannes,CEI Ploërmel,chien,7
+District Vannes,CEI Ploërmel,Écureuil,7
+District Vannes,CEI Ploërmel,Lapin,14
+District Vannes,CEI Ploërmel,Sanglier,17
+District Vannes,CEI Ploërmel,RAPACE DIURNE,19
+District Vannes,CEI Ploërmel,Renard,20
+District Vannes,CEI Ploërmel,Hérisson,24
+District Vannes,CEI Ploërmel,chat,24
+District Vannes,CEI Ploërmel,chevreuil,28
+District Vannes,CEI Ploërmel,Blaireau,35
+District Vannes,CEI Ploërmel,Mustélidés / rongeur,56
+District Vannes,CEI Ploërmel,RAPACE NOCTURNE,62
+District Vannes,CEI Ploërmel,Oiseaux sauf Rapace,72
+District Vannes,CEI Vannes,Cheval,1
+District Vannes,CEI Vannes,Amphibiens,2
+District Vannes,CEI Vannes,Hérisson,2
+District Vannes,CEI Vannes,Loutre,2
+District Vannes,CEI Vannes,chien,2
+District Vannes,CEI Vannes,Écureuil,2
+District Vannes,CEI Vannes,cerf/biche,4
+District Vannes,CEI Vannes,RAPACE DIURNE,5
+District Vannes,CEI Vannes,Lièvre,8
+District Vannes,CEI Vannes,Lapin,11
+District Vannes,CEI Vannes,chat,11
+District Vannes,CEI Vannes,RAPACE NOCTURNE,13
+District Vannes,CEI Vannes,Oiseaux sauf Rapace,18
+District Vannes,CEI Vannes,Sanglier,18
+District Vannes,CEI Vannes,Mustélidés / rongeur,22
+District Vannes,CEI Vannes,chevreuil,22
+District Vannes,CEI Vannes,Renard,24
+District Vannes,CEI Vannes,Ragondin,28
+District Vannes,CEI Vannes,Blaireau,34
