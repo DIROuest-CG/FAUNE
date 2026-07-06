@@ -1,85 +1,70 @@
 "Délégation","Centre","Nature","description","valeur"
-"District Brest","CEI Brest","Animal errant","Animal sauvage",21
-"District Brest","CEI Brest","Animal errant","Animaux d'élevage",1
-"District Brest","CEI Brest","Animal errant","Animaux domestiques",5
-"District Brest","CEI Châteaulin","Animal errant","Animal sauvage",13
-"District Brest","CEI Châteaulin","Animal errant","Animaux domestiques",2
-"District Brest","CEI Châteauneuf-du-Faou","Animal errant","Animal sauvage",19
-"District Brest","CEI Châteauneuf-du-Faou","Animal errant","Animaux domestiques",10
+"District Brest","CEI Brest","Animal errant","Animal sauvage",13
+"District Brest","CEI Brest","Animal errant","Animaux d'élevage",3
+"District Brest","CEI Brest","Animal errant","Animaux domestiques",3
+"District Brest","CEI Châteaulin","Animal errant","Animal sauvage",11
+"District Brest","CEI Châteaulin","Animal errant","Animaux d'élevage",1
+"District Brest","CEI Châteaulin","Animal errant","Animaux domestiques",1
+"District Brest","CEI Châteauneuf-du-Faou","Animal errant","Animal sauvage",13
+"District Brest","CEI Châteauneuf-du-Faou","Animal errant","Animaux domestiques",2
 "District Brest","CEI Châteauneuf-du-Faou","Animal errant","NR",1
 "District Brest","CEI Melgven","Animal errant","Animal sauvage",4
-"District Brest","CEI Melgven","Animal errant","Animaux domestiques",5
-"District Brest","CEI Melgven","Animal errant","NR",10
-"District Brest","CEI Saint-Thégonnec","Animal errant","Animal sauvage",17
-"District Brest","CEI Saint-Thégonnec","Animal errant","Animaux d'élevage",3
-"District Brest","CEI Saint-Thégonnec","Animal errant","Animaux domestiques",15
-"District Nantes","CEI Goulaine","Animal errant","Animal sauvage",55
-"District Nantes","CEI Goulaine","Animal errant","Animaux d'élevage",1
-"District Nantes","CEI Goulaine","Animal errant","Animaux domestiques",4
-"District Nantes","CEI Goulaine","Animal errant","NR",1
-"District Nantes","CEI Héric","Animal errant","Animal sauvage",28
+"District Brest","CEI Melgven","Animal errant","NR",8
+"District Brest","CEI Saint-Thégonnec","Animal errant","Animal sauvage",7
+"District Brest","CEI Saint-Thégonnec","Animal errant","Animaux d'élevage",2
+"District Brest","CEI Saint-Thégonnec","Animal errant","Animaux domestiques",5
+"District Nantes","CEI Goulaine","Animal errant","Animal sauvage",32
+"District Nantes","CEI Goulaine","Animal errant","Animaux domestiques",2
+"District Nantes","CEI Héric","Animal errant","Animal sauvage",16
+"District Nantes","CEI Héric","Animal errant","Animaux d'élevage",1
 "District Nantes","CEI Héric","Animal errant","Animaux domestiques",8
-"District Nantes","CEI Héric","Animal errant","NR",6
-"District Nantes","CEI La Séguinière","Animal errant","Animal sauvage",6
-"District Nantes","CEI La Séguinière","Animal errant","Animaux d'élevage",3
-"District Nantes","CEI La Séguinière","Animal errant","Animaux domestiques",3
-"District Nantes","CEI Nantes","Animal errant","Animal sauvage",22
-"District Nantes","CEI Nantes","Animal errant","Animaux d'élevage",2
+"District Nantes","CEI La Séguinière","Animal errant","Animal sauvage",3
+"District Nantes","CEI Nantes","Animal errant","Animal sauvage",19
 "District Nantes","CEI Nantes","Animal errant","Animaux domestiques",2
-"District Nantes","CEI Savenay","Animal errant","Animal sauvage",16
-"District Nantes","CEI Savenay","Animal errant","Animaux d'élevage",3
-"District Nantes","CEI Savenay","Animal errant","Animaux domestiques",10
-"District Nantes","CEI Savenay","Animal errant","NR",12
-"District Rennes","CEI Bain de Bretagne","Animal errant","Animal sauvage",14
-"District Rennes","CEI Bain de Bretagne","Animal errant","Animaux d'élevage",2
-"District Rennes","CEI Bain de Bretagne","Animal errant","Animaux domestiques",13
-"District Rennes","CEI Chateaubourg","Animal errant","Animal sauvage",30
-"District Rennes","CEI Chateaubourg","Animal errant","Animaux d'élevage",2
-"District Rennes","CEI Chateaubourg","Animal errant","Animaux domestiques",7
-"District Rennes","CEI Chateaubourg","Animal errant","NR",3
-"District Rennes","CEI Mayenne","Animal errant","Animal sauvage",3
-"District Rennes","CEI Mayenne","Animal errant","Animaux domestiques",2
-"District Rennes","CEI Pleumeleuc","Animal errant","Animal sauvage",16
-"District Rennes","CEI Pleumeleuc","Animal errant","Animaux d'élevage",1
-"District Rennes","CEI Pleumeleuc","Animal errant","Animaux domestiques",17
-"District Rennes","CEI Rennes","Animal errant","Animal sauvage",87
-"District Rennes","CEI Rennes","Animal errant","Animaux domestiques",9
+"District Nantes","CEI Savenay","Animal errant","Animal sauvage",14
+"District Nantes","CEI Savenay","Animal errant","Animaux d'élevage",4
+"District Nantes","CEI Savenay","Animal errant","Animaux domestiques",12
+"District Nantes","CEI Savenay","Animal errant","NR",3
+"District Rennes","CEI Bain de Bretagne","Animal errant","Animal sauvage",9
+"District Rennes","CEI Bain de Bretagne","Animal errant","Animaux domestiques",2
+"District Rennes","CEI Chateaubourg","Animal errant","Animal sauvage",24
+"District Rennes","CEI Chateaubourg","Animal errant","Animaux d'élevage",1
+"District Rennes","CEI Chateaubourg","Animal errant","Animaux domestiques",5
+"District Rennes","CEI Mayenne","Animal errant","Animal sauvage",5
+"District Rennes","CEI Mayenne","Animal errant","Animaux d'élevage",1
+"District Rennes","CEI Pleumeleuc","Animal errant","Animal sauvage",3
+"District Rennes","CEI Pleumeleuc","Animal errant","Animaux d'élevage",3
+"District Rennes","CEI Pleumeleuc","Animal errant","Animaux domestiques",8
+"District Rennes","CEI Rennes","Animal errant","Animal sauvage",58
+"District Rennes","CEI Rennes","Animal errant","Animaux domestiques",1
 "District Rennes","CEI Rennes","Animal errant","NR",1
-"District Rennes","CEI Saint Aubin du Cormier","Animal errant","Animal sauvage",22
+"District Rennes","CEI Saint Aubin du Cormier","Animal errant","Animal sauvage",19
+"District Rennes","CEI Saint Aubin du Cormier","Animal errant","Animaux d'élevage",2
 "District Rennes","CEI Saint Aubin du Cormier","Animal errant","Animaux domestiques",4
-"District Rennes","CEI Saint Aubin du Cormier","Animal errant","NR",27
-"District Saint-Brieuc","CEI Guingamp","Animal errant","Animal sauvage",21
-"District Saint-Brieuc","CEI Guingamp","Animal errant","Animaux d'élevage",1
-"District Saint-Brieuc","CEI Guingamp","Animal errant","Animaux domestiques",24
-"District Saint-Brieuc","CEI Guingamp","Animal errant","NR",2
-"District Saint-Brieuc","CEI Le Perray","Animal errant","Animal sauvage",26
-"District Saint-Brieuc","CEI Le Perray","Animal errant","Animaux d'élevage",2
-"District Saint-Brieuc","CEI Le Perray","Animal errant","Animaux domestiques",3
-"District Saint-Brieuc","CEI Le Perray","Animal errant","NR",3
-"District Saint-Brieuc","CEI Loudéac","Animal errant","Animal sauvage",23
+"District Rennes","CEI Saint Aubin du Cormier","Animal errant","NR",12
+"District Saint-Brieuc","CEI Guingamp","Animal errant","Animal sauvage",10
+"District Saint-Brieuc","CEI Guingamp","Animal errant","Animaux domestiques",6
+"District Saint-Brieuc","CEI Le Perray","Animal errant","Animal sauvage",12
+"District Saint-Brieuc","CEI Le Perray","Animal errant","Animaux domestiques",5
+"District Saint-Brieuc","CEI Le Perray","Animal errant","NR",4
+"District Saint-Brieuc","CEI Loudéac","Animal errant","Animal sauvage",12
 "District Saint-Brieuc","CEI Loudéac","Animal errant","Animaux d'élevage",1
-"District Saint-Brieuc","CEI Loudéac","Animal errant","Animaux domestiques",8
-"District Saint-Brieuc","CEI Pleslin-Trigavou","Animal errant","Animal sauvage",12
-"District Saint-Brieuc","CEI Pleslin-Trigavou","Animal errant","Animaux d'élevage",3
-"District Saint-Brieuc","CEI Pleslin-Trigavou","Animal errant","Animaux domestiques",7
-"District Saint-Brieuc","CEI Pleslin-Trigavou","Animal errant","NR",12
-"District Saint-Brieuc","CEI Rostrenen","Animal errant","Animal sauvage",17
-"District Saint-Brieuc","CEI Rostrenen","Animal errant","Animaux d'élevage",1
-"District Saint-Brieuc","CEI Rostrenen","Animal errant","Animaux domestiques",4
-"District Saint-Brieuc","CEI Rostrenen","Animal errant","NR",1
-"District Saint-Brieuc","CEI Tramain","Animal errant","Animal sauvage",42
-"District Saint-Brieuc","CEI Tramain","Animal errant","Animaux domestiques",9
-"District Saint-Brieuc","CEI Tramain","Animal errant","NR",3
-"District Vannes","CEI Locminé","Animal errant","Animal sauvage",16
-"District Vannes","CEI Locminé","Animal errant","Animaux d'élevage",1
-"District Vannes","CEI Locminé","Animal errant","Animaux domestiques",6
-"District Vannes","CEI Lorient","Animal errant","Animal sauvage",21
-"District Vannes","CEI Lorient","Animal errant","Animaux domestiques",9
-"District Vannes","CEI Lorient","Animal errant","NR",16
-"District Vannes","CEI Ploërmel","Animal errant","Animal sauvage",19
-"District Vannes","CEI Ploërmel","Animal errant","Animaux d'élevage",2
-"District Vannes","CEI Ploërmel","Animal errant","Animaux domestiques",5
-"District Vannes","CEI Vannes","Animal errant","Animal sauvage",100
-"District Vannes","CEI Vannes","Animal errant","Animaux d'élevage",1
-"District Vannes","CEI Vannes","Animal errant","Animaux domestiques",3
-"District Vannes","CEI Vannes","Animal errant","NR",2
+"District Saint-Brieuc","CEI Loudéac","Animal errant","Animaux domestiques",1
+"District Saint-Brieuc","CEI Pleslin-Trigavou","Animal errant","Animal sauvage",13
+"District Saint-Brieuc","CEI Pleslin-Trigavou","Animal errant","Animaux domestiques",5
+"District Saint-Brieuc","CEI Pleslin-Trigavou","Animal errant","NR",7
+"District Saint-Brieuc","CEI Rostrenen","Animal errant","Animal sauvage",10
+"District Saint-Brieuc","CEI Tramain","Animal errant","Animal sauvage",18
+"District Saint-Brieuc","CEI Tramain","Animal errant","Animaux d'élevage",1
+"District Saint-Brieuc","CEI Tramain","Animal errant","Animaux domestiques",6
+"District Vannes","CEI Locminé","Animal errant","Animal sauvage",11
+"District Vannes","CEI Locminé","Animal errant","Animaux domestiques",2
+"District Vannes","CEI Locminé","Animal errant","NR",1
+"District Vannes","CEI Lorient","Animal errant","Animal sauvage",5
+"District Vannes","CEI Lorient","Animal errant","Animaux domestiques",2
+"District Vannes","CEI Lorient","Animal errant","NR",14
+"District Vannes","CEI Ploërmel","Animal errant","Animal sauvage",9
+"District Vannes","CEI Ploërmel","Animal errant","Animaux domestiques",1
+"District Vannes","CEI Vannes","Animal errant","Animal sauvage",55
+"District Vannes","CEI Vannes","Animal errant","Animaux d'élevage",2
+"District Vannes","CEI Vannes","Animal errant","Animaux domestiques",1
